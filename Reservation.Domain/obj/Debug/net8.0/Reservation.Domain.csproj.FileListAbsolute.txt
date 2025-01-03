@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\bin\Debug\net8.0\Reservation.Domain.deps.json
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\bin\Debug\net8.0\Reservation.Domain.runtimeconfig.json
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\bin\Debug\net8.0\Reservation.Domain.dll
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\bin\Debug\net8.0\Reservation.Domain.pdb
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.dll
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\refint\Reservation.Domain.dll
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.pdb
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\Reservation.Domain.genruntimeconfig.cache
+C:\Users\HP\source\repos\ReservationsAPI\Reservation.Domain\obj\Debug\net8.0\ref\Reservation.Domain.dll

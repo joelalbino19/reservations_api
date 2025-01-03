@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Application.deps.json
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Application.runtimeconfig.json
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Application.dll
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Application.pdb
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Domain.dll
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\bin\Debug\net8.0\Reservation.Domain.pdb
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.AssemblyInfo.cs
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservat.61F46BA5.Up2Date
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.dll
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\refint\Reservation.Application.dll
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.pdb
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\Reservation.Application.genruntimeconfig.cache
+C:\Users\HP\source\repos\ReservationsAPI\ReservationsApp.Infrastructure\obj\Debug\net8.0\ref\Reservation.Application.dll
