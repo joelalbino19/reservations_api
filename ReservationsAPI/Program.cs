@@ -5,9 +5,11 @@ using Microsoft.OpenApi.Models;
 using Reservation.Application.Interfaces;
 using Reservation.Application.Interfaces.Auth;
 using Reservation.Application.Interfaces.Reservation;
+using Reservation.Application.Interfaces.Space;
 using Reservation.Application.Interfaces.User;
 using Reservation.Application.Services.Auth;
 using Reservation.Application.Services.Reservation;
+using Reservation.Application.Services.Space;
 using Reservation.Application.Services.User;
 using Reservation.Application.Services.Util;
 using Reservation.Domain.Interfaces;
@@ -53,7 +55,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IReservationService, ReservationService>();
 builder.Services.AddScoped<IUtilService, UtilService>();
-
+builder.Services.AddScoped<ISpaceService, SpaceService>();
 
 #endregion
 

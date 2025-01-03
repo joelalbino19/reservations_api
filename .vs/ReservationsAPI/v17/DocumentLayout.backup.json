@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapi\\controllers\\space\\spacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|solutionrelative:reservationsapi\\controllers\\space\\spacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|solutionrelative:reservationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapp.infrastructure\\services\\space\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|solutionrelative:reservationsapp.infrastructure\\services\\space\\spaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapp.infrastructure\\interfaces\\space\\ispaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|solutionrelative:reservationsapp.infrastructure\\interfaces\\space\\ispaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF336538-DCF1-413F-B51B-84109D035A3E}|Reservation.Domain\\Reservation.Domain.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservation.domain\\interfaces\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF336538-DCF1-413F-B51B-84109D035A3E}|Reservation.Domain\\Reservation.Domain.csproj|solutionrelative:reservation.domain\\interfaces\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29426BB7-EEDE-47EF-8F61-0038F98E11FC}|Reservation.Infrastructure\\Reservation.Infrastructure.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservation.infrastructure\\repository\\space\\spacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29426BB7-EEDE-47EF-8F61-0038F98E11FC}|Reservation.Infrastructure\\Reservation.Infrastructure.csproj|solutionrelative:reservation.infrastructure\\repository\\space\\spacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapp.infrastructure\\models\\space\\createspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|solutionrelative:reservationsapp.infrastructure\\models\\space\\createspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapp.infrastructure\\models\\space\\spacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE73F57-C3F0-410F-8341-A2B636799451}|ReservationsApp.Infrastructure\\Reservation.Application.csproj|solutionrelative:reservationsapp.infrastructure\\models\\space\\spacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF336538-DCF1-413F-B51B-84109D035A3E}|Reservation.Domain\\Reservation.Domain.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservation.domain\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF336538-DCF1-413F-B51B-84109D035A3E}|Reservation.Domain\\Reservation.Domain.csproj|solutionrelative:reservation.domain\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|c:\\users\\admin_artdecon\\desktop\\prueba_frontend\\reservationsapi\\reservationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{812E7FBB-BB86-40DB-85E3-8A82A08F4D07}|ReservationsAPI\\ReservationsAPI.csproj|solutionrelative:reservationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReservationsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\Program.cs",
+              "RelativeToolTip": "ReservationsAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:10:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpaceService.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Services\\Space\\SpaceService.cs",
+              "RelativeDocumentMoniker": "ReservationsApp.Infrastructure\\Services\\Space\\SpaceService.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Services\\Space\\SpaceService.cs",
+              "RelativeToolTip": "ReservationsApp.Infrastructure\\Services\\Space\\SpaceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:04:42.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISpaceService.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Interfaces\\Space\\ISpaceService.cs",
+              "RelativeDocumentMoniker": "ReservationsApp.Infrastructure\\Interfaces\\Space\\ISpaceService.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Interfaces\\Space\\ISpaceService.cs",
+              "RelativeToolTip": "ReservationsApp.Infrastructure\\Interfaces\\Space\\ISpaceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:03:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSpaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Models\\Space\\CreateSpaceDto.cs",
+              "RelativeDocumentMoniker": "ReservationsApp.Infrastructure\\Models\\Space\\CreateSpaceDto.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Models\\Space\\CreateSpaceDto.cs",
+              "RelativeToolTip": "ReservationsApp.Infrastructure\\Models\\Space\\CreateSpaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:02:48.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Entities\\Space.cs",
+              "RelativeDocumentMoniker": "Reservation.Domain\\Entities\\Space.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Entities\\Space.cs",
+              "RelativeToolTip": "Reservation.Domain\\Entities\\Space.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:02:12.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Models\\Space\\SpaceDto.cs",
+              "RelativeDocumentMoniker": "ReservationsApp.Infrastructure\\Models\\Space\\SpaceDto.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Models\\Space\\SpaceDto.cs",
+              "RelativeToolTip": "ReservationsApp.Infrastructure\\Models\\Space\\SpaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:01:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpacesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
+              "RelativeDocumentMoniker": "ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
+              "RelativeToolTip": "ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:57:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Interfaces\\ISpaceRepository.cs",
+              "RelativeDocumentMoniker": "Reservation.Domain\\Interfaces\\ISpaceRepository.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Interfaces\\ISpaceRepository.cs",
+              "RelativeToolTip": "Reservation.Domain\\Interfaces\\ISpaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:56:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Infrastructure\\Repository\\Space\\SpaceRepository.cs",
+              "RelativeDocumentMoniker": "Reservation.Infrastructure\\Repository\\Space\\SpaceRepository.cs",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Infrastructure\\Repository\\Space\\SpaceRepository.cs",
+              "RelativeToolTip": "Reservation.Infrastructure\\Repository\\Space\\SpaceRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:53:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ReservationsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\appsettings.json",
+              "RelativeToolTip": "ReservationsAPI\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T14:29:51.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

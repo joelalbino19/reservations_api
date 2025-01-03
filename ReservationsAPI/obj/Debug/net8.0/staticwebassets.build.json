@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "+d2Fco8uvJzfVzsw+JnrdlVoJKeXODoCDT6eSVwPw9Y=",
+  "Hash": "pQ6RhrD+unGWZrZ8ExLLcSgHbgCfPAtWNbv5NkoCh/o=",
   "Source": "ReservationsAPI",
   "BasePath": "_content/ReservationsAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

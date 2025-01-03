@@ -22,5 +22,22 @@ namespace Reservation.Infrastructure.Repository.Space
         {
             return await _dbContext.Spaces.ToListAsync();
         }
+
+        public async Task<Domain.Entities.Space?> GetById(int id)
+        {
+            return await _dbContext.Spaces.FindAsync(id);
+        }
+
+        public async Task AddAsync(Domain.Entities.Space space)
+        {
+            _dbContext.Spaces.Add(space);
+            await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(Domain.Entities.Space space)
+        {
+            _dbContext.Spaces.Remove(space);
+            await _dbContext.SaveChangesAsync();
+        }
     }
 }

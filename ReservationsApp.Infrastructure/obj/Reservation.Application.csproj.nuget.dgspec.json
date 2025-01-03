@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj": {}
+    "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj": {
+    "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj",
         "projectName": "Reservation.Domain",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\obj\\",
+        "projectPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj",
+        "packagesPath": "C:\\Users\\admin_artdecon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin_artdecon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -87,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj": {
+    "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj",
+        "projectUniqueName": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj",
         "projectName": "Reservation.Application",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\ReservationsApp.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\Reservation.Application.csproj",
+        "packagesPath": "C:\\Users\\admin_artdecon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin_artdecon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,15 +113,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj"
+              "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj": {
+                "projectPath": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\Reservation.Domain\\Reservation.Domain.csproj"
               }
             }
           }
@@ -135,7 +134,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -178,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
