@@ -62,8 +62,7 @@
               "RelativeToolTip": "ReservationsAPI\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:10:28.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:10:28.073Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "ReservationsApp.Infrastructure\\Services\\Space\\SpaceService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:04:42.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:04:42.52Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "ReservationsApp.Infrastructure\\Interfaces\\Space\\ISpaceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:03:53.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:03:53.907Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "ReservationsApp.Infrastructure\\Models\\Space\\CreateSpaceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:02:48.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:02:48.269Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "Reservation.Domain\\Entities\\Space.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:02:12.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:02:12.022Z"
             },
             {
               "$type": "Document",
@@ -127,8 +122,7 @@
               "RelativeToolTip": "ReservationsApp.Infrastructure\\Models\\Space\\SpaceDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T21:01:55.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T21:01:55.863Z"
             },
             {
               "$type": "Document",
@@ -138,7 +132,7 @@
               "RelativeDocumentMoniker": "ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
               "ToolTip": "C:\\Users\\admin_artdecon\\Desktop\\prueba_frontend\\ReservationsAPI\\ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
               "RelativeToolTip": "ReservationsAPI\\Controllers\\Space\\SpacesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T20:57:38.987Z",
               "EditorCaption": ""
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Reservation.Domain\\Interfaces\\ISpaceRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:56:35.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T20:56:35.182Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "Reservation.Infrastructure\\Repository\\Space\\SpaceRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAApwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T20:53:01.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T20:53:01.798Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "ReservationsAPI\\appsettings.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-03T14:29:51.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:29:51.283Z"
             }
           ]
         }
